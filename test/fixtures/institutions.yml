@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  authority_id: 1
+  URN: 1
+  name: MyText
+  type: MyText
+  qualification: MyText
+  number_entered: 1
+  distinction: MyText
+  merit: MyText
+  pass: MyText
+  unclassified: MyText
+  no_result: MyText
+
+two:
+  authority_id: 1
+  URN: 1
+  name: MyText
+  type: MyText
+  qualification: MyText
+  number_entered: 1
+  distinction: MyText
+  merit: MyText
+  pass: MyText
+  unclassified: MyText
+  no_result: MyText

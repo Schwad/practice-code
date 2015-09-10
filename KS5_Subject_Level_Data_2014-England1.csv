@@ -1,0 +1,54 @@
+2014 16-18 Performance Tables underlying data,,
+,,
+Contents:,,
+,,
+Metadata,,
+,,
+School and college details,,
+,,
+Academic qualifications,,
+Table/tab number,Table/tab name,Table title
+1,A level,"Number of students entered for A levels and applied A levels by institution, subject and grade achieved"
+2,A level double award,"Number of students entered for applied A level double awards by institution, subject and grade achieved"
+3,AS,"Number of students entered for AS and applied AS levels by institution, subject and grade achieved"
+4,AS double award,"Number of students entered for applied AS level double awards by institution, subject and grade achieved"
+5,Applied A & AS level,"Number of students entered for applied A level /AS level combined award by institution, subject and grade achieved"
+6,IB diploma,"Number of students entered for an International Baccalaureate diploma by institution, subject and grade achieved"
+7,IB combined certificate,"Number of students entered for an International Baccalaureate combined certificate by institution, subject and grade achieved"
+8,IB components,"Number of students entered for an International Baccalaureate standard and higher level components by institution, subject and grade achieved"
+9,IB core,"Number of students entered for an International Baccalaureate diploma programme core by institution, subject and grade achieved"
+10,AQA Baccalaureate,"Number of students entered for the AQA Baccalaureate by institution, subject and grade achieved"
+11,Pre-U ,"Number of students entered for a Pre-U principal subject by institution, subject and grade achieved "
+12,Pre-U short course,"Number of students entered for a Pre-U short course subject by institution, subject and grade achieved "
+13,Free standing maths,"Number of students entered for a level 3 free standing mathematics  qualification by institution, subject and grade achieved "
+14,AEA,"Number of students entered for an advanced extension award by institution, subject and grade achieved"
+15,Extended project,"Number of students entered for an extended project (diploma) by institution, subject and grade achieved"
+,,
+Vocational qualifications,,
+Table/tab number,Table/tab name,Table title
+16,OCR Nat Dip cert,"Number of students passing an OCR Cambridge national diploma or certificate by institution, subject and grade achieved"
+17,OCR Camb Tech 1,"Number of students passing an OCR Cambridge technical certificate or technical introductory diploma level 3 by institution, subject and grade achieved"
+18,OCR Camb Tech 2,"Number of students passing a double award OCR Cambridge technical diploma or technical subsidiary diploma level 3 by institution, subject and grade achieved"
+19,OCR Camb Tech 3,"Number of students passing a triple award OCR Cambridge technical extended diploma level 3 by institution, subject and grade achieved"
+20,BTEC National Award,"Number of students passing a BTEC national award by institution, subject and grade achieved"
+21,BTEC Award,"Number of students entering a BTEC award by institution, subject and grade achieved"
+22,BTEC National Certificate,"Number of students passing a BTEC national certificate by institution, subject and grade achieved"
+23,BTEC Certificate,Number of students passing a BTEC certificate by institution subject and grade achieved
+24,BTEC National Diploma,"Number of students passing a BTEC national diploma by institution, subject and grade achieved"
+25,BTEC Extended Diploma 1,"Number of students passing a BTEC extended diploma by institution, subject and grade achieved"
+26,BTEC Extended Diploma 2,"Number of students passing a BTEC extended diploma by institution, subject and grade achieved"
+27,BTEC 90 Credit Diploma,"Number of students passing a BTEC 90 credit diploma by institution, subject and grade achieved"
+28,BTEC Subsidiary Diploma,"Number of students passing a BTEC subsidiary diploma (with a single grade structure) by institution, subject and grade achieved"
+29,BTEC Foundation Diploma,"Number of students passing a BTEC foundation diploma by institution, subject and grade achieved"
+30,BTEC Diploma 1,"Number of students passing a BTEC diploma by institution, subject and grade achieved"
+31,BTEC Diploma 2,Number of students passing a BTEC diploma by institution subject and grade achieved
+32,VRQ 1,"Number of students entered for vocationally related qualifications (VRQ) by institution, subject and grade achieved"
+33,VRQ 2,"Number of students entered for vocationally related qualifications (VRQ) by institution, subject and grade achieved"
+34,Principal learning dip,"Number of students entered for principal learning diploma - level 3 by institution, subject and grade achieved"
+35,NVQ language,"Number of students passing NVQ language unit at level 3 by institution, subject and grade achieved"
+36,Asset languages,"Number of students entered for asset languages advanced (level 3) by institution, subject and grade achieved"
+37,Key skills at level 3,"Number of students passing key skill at level 3 by institution, subject and grade achieved"
+38,QCF language,"Number of students passing QCF language qualification level 3 by institution, subject and grade achieved"
+39,Adv & prog Diploma,"Number of students entered for advanced and progression diplomas (level 3) by institution, subject and grade achieved"
+40,Other general lev3 1 ,"Number of students entered for other general qualifications at level 3 by institution, subject and grade achieved"
+41,Other general lev3 2,"Number of students entered for other general qualifications at level 3 by institution, subject and grade achieved"

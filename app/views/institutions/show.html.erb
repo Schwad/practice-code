@@ -1,0 +1,32 @@
+<div class="row">
+  <div class="col-md-12 title-block">
+    <h2><%= @institutions.first.authority %></h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12">
+    <%= link_to "Home Page", root_path %>
+    <table>
+      <thead>
+        <th>Name</th>
+        <th>School Type</th>
+        <th>Qualification</th>
+        <th>Subject</th>
+        <th>Number Entered</th>
+        <th class="highlight">Distinction Rate</th>
+      </thead>
+      <% @institutions.each do |institution| %>
+        <tr>
+          <td><%= institution.name %></td>
+          <td><%= institution.school_type %></td>
+          <td><%= institution.qualification %></td>
+          <td><%= institution.subject %></td>
+          <td><%= institution.number_entered %></td>
+          <td class="highlight"><strong><%= number_to_percentage((institution.distinction_rate(institution.id)*100)) %></strong></td>
+        </tr>
+      <% end %>
+    </table>
+
+  </div>
+</div>
